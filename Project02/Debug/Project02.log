@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\tuyen\desktop\sp20\cs303\project02\project02\source.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\tuyen\desktop\sp20\cs303\project02\project02\source.cpp(55): warning C4715: 'Morse_Tree::full_Morse': not all control paths return a value
+  Project02.vcxproj -> C:\Users\tuyen\Desktop\SP20\CS303\Project02\Debug\Project02.exe
