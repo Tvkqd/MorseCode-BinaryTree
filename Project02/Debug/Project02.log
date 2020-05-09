@@ -1,2 +1,7 @@
 ﻿  Main.cpp
+  Source.cpp
+c:\users\tuyen\desktop\sp20\cs303\project02\project02\source.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\tuyen\desktop\sp20\cs303\project02\project02\source.cpp(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\tuyen\desktop\sp20\cs303\project02\project02\source.cpp(100): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
   Project02.vcxproj -> C:\Users\tuyen\Desktop\SP20\CS303\Project02\Debug\Project02.exe
